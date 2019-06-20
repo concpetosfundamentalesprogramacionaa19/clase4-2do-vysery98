@@ -1,4 +1,5 @@
 """
+	@author: vysery98
     Simula paquete de métodos
 """
 import math

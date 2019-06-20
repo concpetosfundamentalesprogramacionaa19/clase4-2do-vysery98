@@ -1,5 +1,5 @@
 """
-    @reroes
+    @vysery98
     Ejemplo de manejo  de Excepciones
     http://docs.python.org.ar/tutorial/3/errors.html
     salida
@@ -24,6 +24,9 @@ nombre = input("Ingreso su nombre :\n")
 nota1 = input("Ingreso de nota 1 :\n")
 nota2 = input("Ingreso de nota 2 :\n")
 promedio = int(nota1) / nota2
+# No fue realizado el casting de nota2
+# nota2 <- String / Cadena
+# int(nota2)
 print("Los datos ingresados son: \nNombre: %s\nNota1: %d \nNota2: %d\
         \nPromedio: %f" % (nombre, nota1, nota2, promedio))
 

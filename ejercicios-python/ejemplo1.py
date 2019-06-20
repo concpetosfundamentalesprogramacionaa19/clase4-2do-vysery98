@@ -1,5 +1,5 @@
 """
-    @reroes
+    @vysery98
     Ejemplo de manejo  de Excepciones
     http://docs.python.org.ar/tutorial/3/errors.html
     salida
@@ -15,5 +15,3 @@ valor2 = 0
 
 resultado = valor/valor2
 print("El resultado es " % resultado)
-
-
